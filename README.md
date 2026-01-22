@@ -1,2 +1,2 @@
 # CWD
-A repository for my Critical Web Design class.
+Zach's repository for my Critical Web Design class.
